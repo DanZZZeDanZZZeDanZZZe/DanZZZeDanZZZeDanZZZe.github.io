@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{fRJg:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return c}));var a=t("q1tI"),r=t.n(a),u=t("L6Je");function c(){return r.a.createElement(u.a,{title:"История"},r.a.createElement("h1",null,"Главная"))}}}]);
+//# sourceMappingURL=component---src-pages-history-page-jsx-f9e9d9379f5b4d4a27c8.js.map
